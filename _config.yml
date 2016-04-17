@@ -1,0 +1,14 @@
+layout_spectrum: 0.9375306
+typography_spectrum: 0.4305603
+color:
+  saturation: 0.7199029
+  lightness: 0.5766563
+  brandStrength: 0.6451495
+  rhythmicContrast: 0.4725863
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: HarvesterCharters.com
