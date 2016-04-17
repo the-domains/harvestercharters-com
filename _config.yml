@@ -10,8 +10,9 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.09677419
 color:
-  saturation: 0.6129032
+  saturation: 1
   brandStrength: 0.7258065
   lightness: 1
   brandColors:
@@ -20,7 +21,6 @@ color:
     - '#BCBCBE'
     - '#4B4B4B'
     - '#A21621'
-  rhythmicContrast: 0.5483871
-typography_spectrum: 0.09677419
+  rhythmicContrast: 1
 layout_spectrum: 0.234767
 name: HarvesterCharters.com
