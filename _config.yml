@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.1523297
 color:
-  saturation: 1
+  saturation: 0
   brandStrength: 0.7258065
-  rhythmicContrast: 1
+  lightness: 1
   brandColors:
     - '#FFFFFF'
     - '#010101'
     - '#BCBCBE'
     - '#4B4B4B'
     - '#A21621'
-  lightness: 1
+  rhythmicContrast: 0
 layout_spectrum: 0.234767
 name: HarvesterCharters.com
