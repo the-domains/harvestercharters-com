@@ -1,16 +1,27 @@
 ---
-author: []
-title: 'Meter looks promising!'
-description: ''
-dateModified: '2016-04-27T19:43:42.709Z'
-datePublished: '2016-04-27T19:44:04.346Z'
-starred: false
-sourcePath: _posts/2016-04-27-meter-looks-promising.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
-_type: MediaObject
+isBasedOnUrl: ''
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-04-28T12:25:15.836Z'
+dateModified: '2016-04-28T02:27:40.255Z'
+author:
+  - name: ''
+    url: ''
+title: 'Meter looks promising!'
+sourcePath: _posts/2016-04-27-meter-looks-promising.md
+published: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
+_type: Blurb
 
 ---
 # Meter looks promising!
