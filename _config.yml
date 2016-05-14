@@ -36,6 +36,6 @@ color:
     - '#A21621'
   brandStrength: 0.375
   lightness: 0.375
-  saturation: 0.375
+  saturation: 0.1875
   rhythmicContrast: 0.25
 purpose: []
