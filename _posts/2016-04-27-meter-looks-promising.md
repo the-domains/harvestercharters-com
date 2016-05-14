@@ -6,14 +6,13 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-28T12:25:15.836Z'
-dateModified: '2016-04-28T02:27:40.255Z'
+datePublished: '2016-05-14T23:29:10.795Z'
+dateModified: '2016-05-14T23:29:10.385Z'
 author:
   - name: ''
     url: ''
 title: 'Meter looks promising!'
 sourcePath: _posts/2016-04-27-meter-looks-promising.md
-published: true
 authors: []
 publisher:
   name: null
