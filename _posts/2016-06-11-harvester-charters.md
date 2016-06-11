@@ -1,11 +1,11 @@
 ---
 description: Harvester Charters
-dateModified: '2016-06-11T20:05:06.999Z'
-datePublished: '2016-06-11T20:07:02.211Z'
+dateModified: '2016-06-11T20:08:15.319Z'
+datePublished: '2016-06-11T20:08:15.764Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-11-harvester-charters.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
