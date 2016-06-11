@@ -1,8 +1,31 @@
-name: HarvesterCharters.com
-favicon: null
-layout_spectrum: 0.49579
 typography_spectrum: 0.1523297
-title: Harvester Charters
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#010101'
+    - '#BCBCBE'
+    - '#4B4B4B'
+    - '#A21621'
+  brandStrength: 0
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.49579
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: HarvesterCharters.com
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e7cec02-0907-477b-b59b-f4d470637427.jpg
 collections:
   - index:
       path: /
@@ -15,27 +38,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#FFFFFF'
-    - '#010101'
-    - '#BCBCBE'
-    - '#4B4B4B'
-    - '#A21621'
-  brandStrength: 0
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 1
+title: Harvester Charters
 purpose: []
