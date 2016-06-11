@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Harvester Charters]]></title>
         <description><![CDATA[Harvester Charters]]></description>
-        <link>http://harvestercharters.com/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
         <lastBuildDate>Sat, 11 Jun 2016 18:36:34 GMT</lastBuildDate>
-        <atom:link href="http://harvestercharters.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d9a3562-74d5-4ed0-ac08-4fa5d72af176.jpg">]]></description>
-            <link>http://harvestercharters.com/8ad7e317-d9c5-4cd6-af02-f68b341875d9/index.html</link>
+            <link>undefined8ad7e317-d9c5-4cd6-af02-f68b341875d9/index.html</link>
             <guid isPermaLink="false">8ad7e317-d9c5-4cd6-af02-f68b341875d9</guid>
-            <pubDate>Sat, 11 Jun 2016 18:36:21 GMT</pubDate>
+            <pubDate>Sat, 11 Jun 2016 18:35:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
