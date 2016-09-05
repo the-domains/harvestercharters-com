@@ -1,7 +1,7 @@
 ---
 description: ''
-dateModified: '2016-06-11T20:14:13.633Z'
-datePublished: '2016-06-11T20:15:14.546Z'
+dateModified: '2016-09-02T04:52:15.265Z'
+datePublished: '2016-09-02T04:52:15.534Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-11-harvester-charters.md
