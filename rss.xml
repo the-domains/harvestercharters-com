@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Harvester Charters]]></title>
         <description><![CDATA[Harvester Charters]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://harvestercharters.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 20:19:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 02 Sep 2016 05:22:39 GMT</lastBuildDate>
+        <atom:link href="http://harvestercharters.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Big Yellowfin Join The Party - BD Outdoors]]></title>
+            <description><![CDATA[<article><h1>Big Yellowfin Join The Party - BD Outdoors</h1><p>There's been a lot of discussion on our message boards about offshore fishing this week and it seems like the comments fall into one of two categories. The first group are those who say the fishing sucks and are often the same ones who blame the purse seiners for the lack of catchable tuna within skiff range of the coast.</p><img src="http://wp-files.bdoutdoors.com/wp-content/uploads/2016/08/IMG_7053.jpg"></article>]]></description>
+            <link>http://www.bdoutdoors.com/big-yellowfin-join-party/</link>
+            <guid isPermaLink="false">944a671a-fa05-423b-beeb-92388eb15272</guid>
+            <pubDate>Fri, 02 Sep 2016 05:22:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a64ef56-d178-4fd3-b42d-c4d4b9515a54.jpg">]]></description>
-            <link>undefineda60f24de-3ace-43f8-a7f5-ea786466f6ab/index.html</link>
+            <link>http://harvestercharters.com/a60f24de-3ace-43f8-a7f5-ea786466f6ab/index.html</link>
             <guid isPermaLink="false">a60f24de-3ace-43f8-a7f5-ea786466f6ab</guid>
             <pubDate>Sat, 11 Jun 2016 20:19:04 GMT</pubDate>
         </item>
