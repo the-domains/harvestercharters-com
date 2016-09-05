@@ -1,3 +1,16 @@
+layout_spectrum: 0.8699678550474346
+typography_spectrum: 0.05154146393761039
+color:
+  saturation: 1
+  brandStrength: 0
+  rhythmicContrast: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#010101'
+    - '#BCBCBE'
+    - '#4B4B4B'
+    - '#A21621'
+  lightness: 1
 title: Harvester Charters
 purpose: []
 collections:
@@ -12,17 +25,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 1
-  brandStrength: 0
-  rhythmicContrast: 1
-  brandColors:
-    - '#FFFFFF'
-    - '#010101'
-    - '#BCBCBE'
-    - '#4B4B4B'
-    - '#A21621'
-  lightness: 1
 cta:
   bucket: null
   version: null
@@ -40,5 +42,3 @@ opengraph:
   appId: null
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6a9531a-19ba-4ece-bc4a-f806fc672f49.jpg
-typography_spectrum: 0.1523297
-layout_spectrum: 0.8924731
